@@ -1,0 +1,21 @@
+{
+  "name": "arun",
+  "version": "1.0.0",
+  "description": "first Program",
+  "main": "app.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "shraam",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
