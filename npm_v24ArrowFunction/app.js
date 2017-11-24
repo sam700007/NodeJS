@@ -9,3 +9,7 @@ var square = (x) => {
 //var square = (x) => x*x;
 
 console.log(square(32));
+
+console.log(square(-6));
+
+console.log(square(37));
