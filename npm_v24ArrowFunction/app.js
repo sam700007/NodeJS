@@ -10,9 +10,15 @@ var square = (x) => {
 
 console.log(square(32));
 
+
+console.log(square(-6));
+
+console.log(square(37));
+
 var cube = (x) => {
 	var result = x*x*x;
 	return result;
 }
 
 console.log(cube(32));
+
